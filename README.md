@@ -203,3 +203,8 @@ La terminal muestra además una tabla con:
 - `imgsz` = 1280;
 - el modelo cargado de forma permanente;
 - las fotos procesadas en cola, una a la vez.
+
+
+### Referencia
+
+Modelo tomato_3classes_2000images_21_4_2023.pt tomado del siguiente repositorio: https://github.com/shubha-pandey/Tomato-Plant-Growth-Monitoring
